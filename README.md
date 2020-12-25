@@ -1,1 +1,4 @@
-# 30_day_JavaScript_challenge
+# 30 Day JavaScript Challenge
+### Daily challenges with vanilla javascript
+
+
