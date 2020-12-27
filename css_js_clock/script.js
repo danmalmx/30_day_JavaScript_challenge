@@ -17,12 +17,6 @@ function setDate() {
     minHand.style.transform = `rotate(${minutesDegree}deg)`;
     hourHand.style.transform = `rotate(${hoursDegree}deg)`;
     
-    if(seconds === 59) {
-        secondHand.style.transition = null;
-    }
-    console.log(seconds);
-
-    
 }
 
 setInterval(setDate, 1000);
