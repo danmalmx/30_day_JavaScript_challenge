@@ -7,8 +7,12 @@
 img {
 	padding: var(--spacing);
 	background: var(--base);
+	filter: var(--blur);
 }
 
+.hl {
+	color: var(--base);
+}
 body {
 	text-align: center;
 	background: #193549;
