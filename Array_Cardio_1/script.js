@@ -92,3 +92,6 @@ const inventors = [
     }, {})
 
     console.log(transport)
+
+const list = document.querySelector('.view-content');
+const content = [...(list.querySelectorAll('.field-content'))[5]];
