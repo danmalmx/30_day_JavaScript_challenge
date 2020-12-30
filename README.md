@@ -12,3 +12,6 @@ https://danmalmx.github.io/30_day_JavaScript_challenge/Update_css_with_JS/
 
 ### Day 4 - Array Cardio (1)
 https://danmalmx.github.io/30_day_JavaScript_challenge/Array_Cardio_1/
+
+### Day 5 - Flex Panel Image Gallery
+https://danmalmx.github.io/30_day_JavaScript_challenge/Flex_Panels_Galery/
