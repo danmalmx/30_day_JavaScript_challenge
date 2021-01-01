@@ -21,3 +21,6 @@ https://danmalmx.github.io/30_day_JavaScript_challenge/Type-Ahead/
 
 ### Day 7 - Array Cardio (2)
 https://danmalmx.github.io/30_day_JavaScript_challenge/Array_Cardio_2/
+
+### Day 8 - Fun with HTML5 Canvas
+https://danmalmx.github.io/30_day_JavaScript_challenge/HTML5_Canvas/
