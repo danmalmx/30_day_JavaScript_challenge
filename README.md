@@ -15,3 +15,6 @@ https://danmalmx.github.io/30_day_JavaScript_challenge/Array_Cardio_1/
 
 ### Day 5 - Flex Panel Image Gallery
 https://danmalmx.github.io/30_day_JavaScript_challenge/Flex_Panels_Galery/
+
+### Day 6 - Ajax Type Ahead
+https://danmalmx.github.io/30_day_JavaScript_challenge/Type-Ahead/
