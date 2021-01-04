@@ -26,7 +26,7 @@ https://danmalmx.github.io/30_day_JavaScript_challenge/Array_Cardio_2/
 https://danmalmx.github.io/30_day_JavaScript_challenge/HTML5_Canvas/
 
 ### Day 9 - Dev Tool Tricks
-no site avaiable.
+no site available.
 
 ### Day 10 - Hold shift to check multiple checkboxes
 https://danmalmx.github.io/30_day_JavaScript_challenge/Multiple_Checkboxes/
