@@ -33,3 +33,6 @@ https://danmalmx.github.io/30_day_JavaScript_challenge/Multiple_Checkboxes/
 
 ### Day 11 - Custom Video Player
 https://danmalmx.github.io/30_day_JavaScript_challenge/Custom_Video_Player/
+
+### Day 12 - Key Sequence Detection
+https://danmalmx.github.io/30_day_JavaScript_challenge/Key_Sequence/
