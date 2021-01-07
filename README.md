@@ -30,3 +30,6 @@ no site available.
 
 ### Day 10 - Hold shift to check multiple checkboxes
 https://danmalmx.github.io/30_day_JavaScript_challenge/Multiple_Checkboxes/
+
+### Day 11 - Custom Video Player
+https://danmalmx.github.io/30_day_JavaScript_challenge/Custom_Video_Player/
