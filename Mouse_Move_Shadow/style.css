@@ -8,6 +8,7 @@ body {
 }
 
 .hero {
+	position: relative;
 	min-height: 100vh;
 	display: flex;
 	justify-content: center;
@@ -18,4 +19,9 @@ body {
 h1 {
 	text-shadow: 10px 10px 0 rgba(0, 0, 0, 1);
 	font-size: 100px;
+	display: block;
+}
+
+h2 {
+	text-align: center;
 }
