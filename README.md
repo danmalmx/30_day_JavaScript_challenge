@@ -37,5 +37,16 @@ https://danmalmx.github.io/30_day_JavaScript_challenge/Custom_Video_Player/
 ### Day 12 - Key Sequence Detection
 https://danmalmx.github.io/30_day_JavaScript_challenge/Key_Sequence/
 
-### Day 13 - Reference VS Copy
+### Day 13 - slide in on scroll
+https://danmalmx.github.io/30_day_JavaScript_challenge/Slide_on_Scroll/
+
+### Day 14 - Reference VS Copy
 no site available.
+
+### Day 15 - LocalStorage & Event Delegation
+https://danmalmx.github.io/30_day_JavaScript_challenge/LocalStorage_EventDelegation/
+
+### Day 16 - Mouse Move Shadow
+https://danmalmx.github.io/30_day_JavaScript_challenge/Mouse_Move_Shadow/
+
+### Day 17 - Sorting Brand Names without Articles
