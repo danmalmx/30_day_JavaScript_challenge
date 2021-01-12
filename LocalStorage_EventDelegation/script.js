@@ -23,7 +23,7 @@ function populateList(plates = [], platesList) {
                 <input type="checkbox" data-index=${i} id=item${i} ${plate.done ? 'checked' : ''} />
                 <label for="item${i}">${plate.text}</label>
                 </li>`;
-    }).join();
+    }).join('');
 }
 
 function toggleDone(e) {
