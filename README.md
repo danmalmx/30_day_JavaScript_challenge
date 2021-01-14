@@ -51,3 +51,6 @@ https://danmalmx.github.io/30_day_JavaScript_challenge/Mouse_Move_Shadow/
 
 ### Day 17 - Sorting Band Names without Articles
 https://danmalmx.github.io/30_day_JavaScript_challenge/Sort_Without_Article/
+
+### Day 18 - Tally String Times with reduce
+http://127.0.0.1:5500/Total_With_Reduce/index.html
