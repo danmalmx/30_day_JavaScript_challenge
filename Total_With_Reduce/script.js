@@ -9,8 +9,9 @@ const seconds = timeNodes
 
     let secondsLeft = seconds;
     const hours = Math.floor(secondsLeft / 3600);
+    console.log(hours);
     secondsLeft = secondsLeft - (hours * 3600);
     const mins = Math.floor(secondsLeft / 60);
     secondsLeft = secondsLeft - (mins * 60);
 
-    console.log(`Total Playing Time: ${hours} hrs ${mins} min, ${secondsLeft} sec`);
+    console.log(`Total Playing Time: ${hours === 1 ? `${hours} hr` : `${hours} hrs`} ${mins} min, ${secondsLeft} sec`);
