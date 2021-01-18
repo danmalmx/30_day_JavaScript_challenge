@@ -53,10 +53,13 @@ https://danmalmx.github.io/30_day_JavaScript_challenge/Mouse_Move_Shadow/
 https://danmalmx.github.io/30_day_JavaScript_challenge/Sort_Without_Article/
 
 ### Day 18 - Tally String Times with reduce
-http://127.0.0.1:5500/Total_With_Reduce/
+http://127.0.0.1:5500/Total_With_Reduce/ (requires running local server)
 
 ### Day 19 - Unreal Webcam fun
-http://127.0.0.1:5500/Webcam_Fun/
+http://127.0.0.1:5500/Webcam_Fun/ (requires running local server)
 
 ### Day 20 - Native Speech Recognition
-http://127.0.0.1:5500/Speech_Detection/
+http://127.0.0.1:5500/Speech_Detection/ (requires running local server)
+
+### Day 21 - Geolocation based speedometer and compass
+https://192.168.1.81:3000/index.html (requires running local server and simulator on Xtools)
