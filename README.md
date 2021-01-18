@@ -53,4 +53,10 @@ https://danmalmx.github.io/30_day_JavaScript_challenge/Mouse_Move_Shadow/
 https://danmalmx.github.io/30_day_JavaScript_challenge/Sort_Without_Article/
 
 ### Day 18 - Tally String Times with reduce
-http://127.0.0.1:5500/Total_With_Reduce/index.html
+http://127.0.0.1:5500/Total_With_Reduce/
+
+### Day 19 - Unreal Webcam fun
+http://127.0.0.1:5500/Webcam_Fun/
+
+### Day 20 - Native Speech Recognition
+http://127.0.0.1:5500/Speech_Detection/
