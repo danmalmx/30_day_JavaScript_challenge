@@ -63,3 +63,6 @@ http://127.0.0.1:5500/Speech_Detection/ (requires running local server)
 
 ### Day 21 - Geolocation based speedometer and compass
 https://192.168.1.81:3000/index.html (requires running local server and simulator on Xtools)
+
+### Day 22 - Follow Along Links Highlight
+https://danmalmx.github.io/30_day_JavaScript_challenge/Follow_Along_Link/
