@@ -66,3 +66,6 @@ https://192.168.1.81:3000/index.html (requires running local server and simulato
 
 ### Day 22 - Follow Along Links Highlight
 https://danmalmx.github.io/30_day_JavaScript_challenge/Follow_Along_Link/
+
+### Day 23 - Sticky Navbar
+https://danmalmx.github.io/30_day_JavaScript_challenge/Sticky_Navbar/
