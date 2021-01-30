@@ -69,3 +69,6 @@ https://danmalmx.github.io/30_day_JavaScript_challenge/Follow_Along_Link/
 
 ### Day 23 - Sticky Navbar
 https://danmalmx.github.io/30_day_JavaScript_challenge/Sticky_Navbar/
+
+### Day 24 - Event Capture, Propogation, Bubblinge and Once
+no site available
