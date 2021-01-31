@@ -72,3 +72,6 @@ https://danmalmx.github.io/30_day_JavaScript_challenge/Sticky_Navbar/
 
 ### Day 24 - Event Capture, Propogation, Bubblinge and Once
 no site available
+
+### Day 25 - Stripe Type Dropdown
+https://danmalmx.github.io/30_day_JavaScript_challenge/Strip_menu/
