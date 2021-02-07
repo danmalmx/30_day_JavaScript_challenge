@@ -75,3 +75,6 @@ no site available
 
 ### Day 25 - Stripe Type Dropdown
 https://danmalmx.github.io/30_day_JavaScript_challenge/Strip_menu/
+
+### Day 26 - Click and Drag to Scroll
+https://danmalmx.github.io/30_day_JavaScript_challenge/Click_and_Drag/
