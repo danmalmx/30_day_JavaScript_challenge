@@ -78,3 +78,6 @@ https://danmalmx.github.io/30_day_JavaScript_challenge/Strip_menu/
 
 ### Day 26 - Click and Drag to Scroll
 https://danmalmx.github.io/30_day_JavaScript_challenge/Click_and_Drag/
+
+### Day 27 - Video Speed Controller UI
+https://danmalmx.github.io/30_day_JavaScript_challenge/Video_Speed_Controller/
