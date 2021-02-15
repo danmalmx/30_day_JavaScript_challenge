@@ -1,9 +1,10 @@
 let cuntdown;
+const timerDisplay = document.querySelector('.display__time-left');
 
 function timer(sec) {
   const now = Date.now();
   const then = now + (sec * 1000)
-  displayTmeLeft(sec);
+  displayTimeLeft(sec);
   countdown = setInterval(() => {
     const secLeft = Math.round((then - Date.now()) / 1000);
 
@@ -11,10 +12,14 @@ function timer(sec) {
       clearInterval(countdown);
       return;
     }
-    displayTmeLeft(secLeft);
+    displayTimeLeft(secLeft);
   }, 1000);
 }
 
-function displayTmeLeft(sec) {
-  console.log(sec);
+function displayTimeLeft(sec) {
+  const min = Math.floor(sec / 60);
+  const remainSec = sec % 60;
+  const display = `${min}:${remainSec < 10 ? 0 : ''}${remainSec}`;
+  document.title = display;
+  timerDisplay.textContent = display;
 }
