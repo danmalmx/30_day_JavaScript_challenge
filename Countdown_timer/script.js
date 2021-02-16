@@ -32,7 +32,7 @@ function displayEndTime(timestamp) {
   const end = new Date(timestamp);
   const hour = end.getHours();
   const min = end.getMinutes();
-  endTime.textContent = `Be back at ${hour}: ${min < 10 ? 0 : ''}${min}`
+  endTime.textContent = `Be back at ${hour}:${min < 10 ? 0 : ''}${min}`
 }
 
 function startTimer() {
@@ -41,3 +41,10 @@ function startTimer() {
 }
 
 buttons.forEach(button => button.addEventListener('click', startTimer));
+document.customForm.addEventListener('submit', function(e) {
+  e.preventDefault();
+  const mins = this.minutes.value
+  timer(mins * 60)
+  this.reset();
+
+})
