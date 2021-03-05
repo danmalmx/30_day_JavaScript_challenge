@@ -18,3 +18,14 @@ function randHoles(holes) {
   lastHole = hole;
   return hole;
 }
+
+function molePeep() {
+  const time = randTime(200, 1000);
+  const hole = randHoles(holes);
+  hole.classList.add('up');
+
+  setTimeout(() => {
+    hole.classList.remove('up')
+  }, time)
+  console.log(time, hole);
+}
