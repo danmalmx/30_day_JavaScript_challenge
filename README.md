@@ -67,17 +67,26 @@ https://192.168.1.81:3000/index.html (requires running local server and simulato
 ### Day 22 - Follow Along Links Highlight
 https://danmalmx.github.io/30_day_JavaScript_challenge/Follow_Along_Link/
 
-### Day 23 - Sticky Navbar
+### Day 23 - Speech Synthesis
+https://danmalmx.github.io/30_day_JavaScript_challenge/Speech_Detection/
+
+### Day 24 - Sticky Navbar
 https://danmalmx.github.io/30_day_JavaScript_challenge/Sticky_Navbar/
 
-### Day 24 - Event Capture, Propogation, Bubblinge and Once
+### Day 25 - Event Capture, Propogation, Bubblinge and Once
 no site available
 
-### Day 25 - Stripe Type Dropdown
+### Day 26 - Stripe Type Dropdown
 https://danmalmx.github.io/30_day_JavaScript_challenge/Strip_menu/
 
-### Day 26 - Click and Drag to Scroll
+### Day 27 - Click and Drag to Scroll
 https://danmalmx.github.io/30_day_JavaScript_challenge/Click_and_Drag/
 
-### Day 27 - Video Speed Controller UI
+### Day 28 - Video Speed Controller UI
 https://danmalmx.github.io/30_day_JavaScript_challenge/Video_Speed_Controller/
+
+### Day 29 - Countdown Clock
+https://danmalmx.github.io/30_day_JavaScript_challenge/Countdown_timer/
+
+### Day 30 - Whack-A-Mole Game
+https://danmalmx.github.io/30_day_JavaScript_challenge/Whack_A_Mole/
